@@ -1,1 +1,2 @@
-I am learning Git-Hub from KrishNaik Academy
+Subscribe to gitHub Channel of KrishNaik
+#please do some code changes
