@@ -1,1 +1,1 @@
-I am learning Git-Hub from KrishNaik Academy
+I am learning Git-Hub from KrishNaik Academy. He teaches very well.
